@@ -20,7 +20,7 @@ public class Question {
     }
 
     private static final String Q1 = "\"Kolik prstenů Moci obdrželi vládci lidí od Saurona?\n" +
-            "(A - 8)\n + (B - 5)\n + (C - 3)";
+            "(A - 9)\n + (B - 5)\n + (C - 3)";
 
     private static final String Q2 = "Jak se jmenuje pavoučice?\n" +
             "(A - Gothmog)\n + (B - Hilga)\n + (C - Odula)";
